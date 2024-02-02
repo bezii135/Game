@@ -1,0 +1,12 @@
+body{
+    background-image: url('ping_pong.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+canvas {
+    display: block;
+    margin: 80px;
+    padding: 10px;
+    background-color: greenyellow;
+  }
